@@ -333,7 +333,14 @@
         #endregion
 
         #region Navigation Methods
+        /*
+         Passing by Reference or passing by Value.
 
+        In order to pass a variable by reference into a method, the 'ref' keyword
+        must be used when we define the parameter, otherwise the parameter will be passed
+        by value.
+         
+         */
         /// <summary>
         /// Name: Sail
         /// Purpose: Sail the ship a given distance and add that distance to the 
