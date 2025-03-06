@@ -1,2 +1,2 @@
 # Methods
-So you want to be a Roman Emperor? (Methods demo)
+So you want to be a Pirate? (Methods demo)
